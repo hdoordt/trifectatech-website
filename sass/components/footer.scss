@@ -3,6 +3,7 @@ footer {
   padding-block: 3rem;
   position: relative;
   z-index: 0;
+  color: var(--color-secondary-200);
 
   &::after {
     content: '';

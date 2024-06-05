@@ -11,13 +11,11 @@
   padding-inline: 1.5rem;
   position: relative;
   text-decoration: none;
-
-
 }
 
 .btn-primary {
   background-color: var(--color-secondary-400);
-  color: var(--color-primary-400);
+  color: var(--color-secondary-200);
 
   &::after {
     width: 100%;
